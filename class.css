@@ -94,3 +94,16 @@
 .m6 p{
     color: #737373;
 }
+.sitora {
+    padding: 20px;
+    border: 1px solid #737373;
+    background: #FAFAFA;
+    border-radius: 5px;
+}
+.m8{
+    display: flex;
+    justify-content: space-around;
+}
+.m8 p{
+    color: #737373;
+}

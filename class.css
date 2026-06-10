@@ -107,3 +107,18 @@
 .m8 p{
     color: #737373;
 }
+.the { 
+     padding: 25px;
+     background: #FAFAFA;
+     border: 1px solid white;
+     border-radius: 5px;
+}
+.the h3 {
+    color: #252B42;
+}
+.m10 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    color: #737373;
+}

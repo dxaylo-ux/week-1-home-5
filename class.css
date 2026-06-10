@@ -63,3 +63,34 @@
     margin-top: 10px;
     font-size: 12px;
 }
+.m4 {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    padding: 30px;
+    background-color: #8EC2F2;
+    border-radius: 10px;
+    color: white;
+    width: 200px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -20px;
+}
+.lead{
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 80px;
+}
+.m5 {
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.m6 {
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-around;
+}
+.m6 p{
+    color: #737373;
+}

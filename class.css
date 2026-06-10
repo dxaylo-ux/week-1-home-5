@@ -179,3 +179,216 @@
     margin-top: -30px;
     row-gap: 18px;
 }
+.n5 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    background: #252B42;
+    padding: 50px;
+    margin-top: 400px;
+}
+.n6 {
+    display: flex;
+    border-radius: 10px;
+}
+.n10 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    margin-top: 30px;
+}
+.n10 h3 {
+    color: #252B42;
+}
+
+@media (max-width: 768px) {
+    
+   
+    .glavni {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 0; 
+        padding: 20px 10px;
+    }
+    .img1{
+        display: none;
+    }
+    .meet{
+        margin-left: 70px;
+    }
+    .we{
+        margin-left: -140px;
+    }
+    .img2{
+        margin-left: -30px;
+    }
+    .glavni img {
+        margin-left: 0; 
+        margin-top: 0 ;
+    }
+    
+    .glavni button {
+        margin-left: 0;
+        margin-top: 10px;
+        width: 100%;
+        max-width: 200px;
+    }
+
+    .headerimg {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #252B42; 
+    }
+
+    .headerimg img {
+        height: auto;
+    }
+
+    .headerimg h1 {
+        font-size: 32px; 
+        margin-left: 0;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .headerimg p {
+        margin-left: 0 ;
+        margin-top: 15px ;
+        text-align: center;
+        font-size: 16px ;
+        padding: 0 15px;
+    }
+
+    .but1 {
+        margin-left: 0;
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+
+   
+    .divimg {
+        position: static; 
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 40px;
+        width: 90%;
+        max-width: 320px;
+        height: auto;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    .divinput {
+        padding: 20px;
+    }
+
+    .divinput input {
+        width: 100%; 
+    }
+
+    .divinput button {
+        width: 100%;
+    }
+
+  
+    .lead {
+        margin-top: 60px;
+        margin-bottom: 40px;
+        padding: 0 15px;
+    }
+
+    .m6 {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+        margin-top: 40px;
+        padding: 0 15px;
+    }
+
+    .m5 {
+        width: 90%;
+        max-width: 300px;
+    }
+
+    .m4 {
+        width: auto;
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+
+  
+    .m8 {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 0 15px;
+    }
+
+    .sitora {
+        width: 90%;
+        max-width: 320px;
+    }
+
+  
+    .m10 {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        margin-top: 0;
+        padding: 0 15px;
+    }
+
+    .the {
+        width: 90%;
+        max-width: 320px;
+        margin-bottom: 15px;
+    }
+
+  
+    .n2 {
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+        padding: 0 15px;
+    }
+
+    .n1, .n3 {
+        width: 90%;
+        max-width: 300px;
+    }
+
+   
+    .znak, .znak2, .znak3 {
+        display: none; 
+    }
+
+   
+    .n5 {
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
+        margin-top: 60px;
+        padding: 30px 15px;
+    }
+
+    .n5 h1 {
+        font-size: 24px;
+    }
+
+    .n6 {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .n10 {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 30px;
+        padding: 30px 40px;
+    }
+}
+
